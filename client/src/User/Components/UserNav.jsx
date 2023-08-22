@@ -15,7 +15,7 @@ export default function UserNav() {
     return (
         <Navbar expand="lg" className="bg-theme">
             <Container>
-                <Link className='navbar-brand' to='/'><img src="https://o.remove.bg/downloads/ba3bb2cd-88e2-4c86-8ddf-9eaa5ffe5052/K-Ramen-only-logo-removebg-preview.png" width='200px' alt="" style={{ marginLeft: '-40px' }} /></Link>
+                <Link className='navbar-brand' to='/'><img src="https://www.ramennoodlesnederland.nl/wp-content/uploads/2019/11/RAMENNOODLEScenterBIG.png" width='200px' alt="" style={{ marginLeft: '-40px' }} /></Link>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ms-auto">

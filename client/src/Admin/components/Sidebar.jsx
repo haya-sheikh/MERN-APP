@@ -39,7 +39,7 @@ export default function Sidebar() {
         <>
 
             <div className="bg-primary p-3 d-flex text-white justify-content-between align-items-center">
-                <span>Hamna</span>
+                <span>Haya</span>
                 <button className="btn btn-outline-light"
                  onClick={() => {
                     Cookies.remove('token')
